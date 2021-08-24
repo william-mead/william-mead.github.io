@@ -1,12 +1,9 @@
 ## William Mead
 
 ### Talks
-The two-species totally asymmetric simple exlcusion process
-
-[Integrability and Combinatorics at Finite Temperature](https://sites.google.com/view/intcombfintemp2021/home)
-
-MATRIX | 17 June 2021
-
+The two-species totally asymmetric simple exlcusion process  
+[Integrability and Combinatorics at Finite Temperature](https://sites.google.com/view/intcombfintemp2021/home)  
+MATRIX | 17 June 2021  
 Can be viewed [here](https://www.youtube.com/watch?v=bPSxilDGA7w&t)
 
 You can use the [editor on GitHub](https://github.com/william-mead/william-mead.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
