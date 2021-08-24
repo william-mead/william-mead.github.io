@@ -1,10 +1,17 @@
 ## William Mead
 
+As of October 2021, I’ll be a PhD student within the School of Mathematics and Statistics at the University of Melbourne. I’ll be funded by a bridging scholarship from ACEMS which I’m hoping will lead into a Research Training Program PhD position in 2022. 
+
+My main interests lie in integrable stochastic processes and their universal current distributions. I have a particular focus on multi-species exclusion processes.
+
 ### Talks
 The two-species totally asymmetric simple exlcusion process  
 [Integrability and Combinatorics at Finite Temperature](https://sites.google.com/view/intcombfintemp2021/home)  
 MATRIX | 17 June 2021  
 Can be viewed [here](https://www.youtube.com/watch?v=bPSxilDGA7w&t)
+
+The two-species totally asymmetric simple exlcusion process  
+ANZAMP Seminar Series | 16 March 2021  
 
 You can use the [editor on GitHub](https://github.com/william-mead/william-mead.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
