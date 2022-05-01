@@ -1,50 +1,38 @@
-## William Mead
+# William Mead
 
-As of October 2021, I’ll be a PhD student within the School of Mathematics and Statistics at the University of Melbourne. I’ll be funded by a bridging scholarship from ACEMS which I’m hoping will lead into a Research Training Program PhD position in 2022. 
+I am a PhD student within the [School of Mathematics and Statistics at the University of Melbourne](https://ms.unimelb.edu.au/).
 
-My main interests lie in integrable stochastic processes and their universal current distributions. I have a particular focus on multi-species exclusion processes.
+My research interests are in mathematical physics and integrable probability. I am interested in the stochastic dualities and universal current distributions of integrable models, particularly of higher-rank models.
 
-### Talks
+
+## Meetings and visits
+* May 2022 - Università di Modena e Reggio Emilia - visiting C. Franceschini  
+* April-May 2022 - Galileo Galilei Institute for Theoretical Physics, Florence - attending [Randomness, Integrability & Universality workshop](https://www.ggi.infn.it/showevent.pl?id=366)  
+* February 2022 - [ANZAMP 2022 (online)](https://www.anzamp.org.au/meetings/2022-2/)  
+* June 2021 - MATRIX, Creswick - attending [Integrability and Combinatorics at Finite Temperature](https://sites.google.com/view/intcombfintemp2021/home)
+
+
+## Papers and theses
+Transition probability and total crossing events in the multi-species asymmetric exclusion process, J. de Gier, W. Mead and M. Wheeler, [arXiv:2109.14232](https://arxiv.org/abs/2109.14232) - submitted
+
+The two-species totally asymmetric simple exclusion process - October 2020 - Master's thesis
+
+
+## Talks
+Transition Probabilities in the Multi-species Asymmetric Exclusion Process  
+[ANZAMP 2022](https://www.anzamp.org.au/meetings/2022-2/) | 9 February 2022 
+
 The two-species totally asymmetric simple exlcusion process  
 [Integrability and Combinatorics at Finite Temperature](https://sites.google.com/view/intcombfintemp2021/home)  
 MATRIX | 17 June 2021  
 Can be viewed [here](https://www.youtube.com/watch?v=bPSxilDGA7w&t)
 
 The two-species totally asymmetric simple exlcusion process  
-ANZAMP Seminar Series | 16 March 2021  
+ANZAMP Seminar Series 2021| 16 March 2021
 
-You can use the [editor on GitHub](https://github.com/william-mead/william-mead.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contact
+[wmead@student.unimelb.edu.au](mailto:wmead@student.unimelb.edu.au)  
+[LinkedIn](https://www.linkedin.com/in/william-thomas-mead/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/william-mead/william-mead.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I'm very casually working on a multi-species ASEP simulation tool in python. If this would be helpful for you then feel free to [contact me](mailto:wmead@student.unimelb.edu.au) and I can share it.
