@@ -36,3 +36,6 @@ ANZAMP Seminar Series 2021| 16 March 2021
 [LinkedIn](https://www.linkedin.com/in/william-thomas-mead/)
 
 I'm very casually working on a multi-species ASEP simulation tool in python. If this would be helpful for you then feel free to [contact me](mailto:wmead@student.unimelb.edu.au) and I can share it.
+
+I'm obliged to share the best piece of advice that I have recieved on giving a talk:
+> *You cannot read and listen at the same time*
