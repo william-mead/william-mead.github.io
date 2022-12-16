@@ -1,11 +1,15 @@
 # William Mead
 
-I am a PhD student within the [School of Mathematics and Statistics at the University of Melbourne](https://ms.unimelb.edu.au/).
+I am a PhD student within the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/) at the University of Melbourne.
 
 My research interests are in mathematical physics and integrable probability. I am interested in the stochastic dualities and universal current distributions of integrable models, particularly of higher-rank models.
 
 
 ## Meetings and visits
+* December 2022 - University of Oxford - visiting T. Yoshimura 
+* December 2022 - Eurandom, Eindhoven, Netherlands - attending [Recent Developments in Stochastic Duality](https://www.eurandom.tue.nl/event/workshop-recent-developments-in-stochastic-duality/)
+* September 2022 - MATRIX, Creswick - attending [Integrable Probability, Combinatorics and Representation Theory](https://www.matrix-inst.org.au/events/matrix-rims-tandem-workshop-integrable-probability-combinatorics-and-representation-theory/)
+
 * May 2022 - Università di Modena e Reggio Emilia - visiting C. Franceschini  
 * April-May 2022 - Galileo Galilei Institute for Theoretical Physics, Florence - attending [Randomness, Integrability & Universality workshop](https://www.ggi.infn.it/showevent.pl?id=366)  
 * February 2022 - [ANZAMP 2022 (online)](https://www.anzamp.org.au/meetings/2022-2/)  
@@ -19,6 +23,14 @@ The two-species totally asymmetric simple exclusion process - October 2020 - Mas
 
 
 ## Talks
+ASEP Dualities from Integrable Vertex Models  
+[Recent Developments in Stochastic Duality](https://www.eurandom.tue.nl/event/workshop-recent-developments-in-stochastic-duality/)  
+Eurandom | 12 December 2022
+
+Transition Probabilities in the Multi-species Asymmetric Exclusion Process  
+[Randomness, Integrability and Universality](https://www.ggi.infn.it/talkfiles/slides/slides5918.pdf)  
+Galileo Galilei Institute | 4 May 2022
+
 Transition Probabilities in the Multi-species Asymmetric Exclusion Process  
 [ANZAMP 2022](https://www.anzamp.org.au/meetings/2022-2/) | 9 February 2022 
 
@@ -28,7 +40,7 @@ MATRIX | 17 June 2021
 Can be viewed [here](https://www.youtube.com/watch?v=bPSxilDGA7w&t)
 
 The two-species totally asymmetric simple exlcusion process  
-ANZAMP Seminar Series 2021| 16 March 2021
+ANZAMP Seminar Series 2021 | 16 March 2021
 
 
 ## Contact
