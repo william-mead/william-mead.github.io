@@ -11,18 +11,22 @@ My research interests are in mathematical physics and integrable probability. I 
 * September 2022 - MATRIX, Creswick - attending [Integrable Probability, Combinatorics and Representation Theory](https://www.matrix-inst.org.au/events/matrix-rims-tandem-workshop-integrable-probability-combinatorics-and-representation-theory/)
 
 * May 2022 - Università di Modena e Reggio Emilia - visiting C. Franceschini  
-* April-May 2022 - Galileo Galilei Institute for Theoretical Physics, Florence - attending [Randomness, Integrability & Universality workshop](https://www.ggi.infn.it/showevent.pl?id=366)  
+* April-May 2022 - Galileo Galilei Institute for Theoretical Physics, Florence, Italy - attending [Randomness, Integrability & Universality workshop](https://www.ggi.infn.it/showevent.pl?id=366)  
 * February 2022 - [ANZAMP 2022 (online)](https://www.anzamp.org.au/meetings/2022-2/)  
 * June 2021 - MATRIX, Creswick - attending [Integrability and Combinatorics at Finite Temperature](https://sites.google.com/view/intcombfintemp2021/home)
 
 
 ## Papers and theses
-Transition probability and total crossing events in the multi-species asymmetric exclusion process, J. de Gier, W. Mead and M. Wheeler, [arXiv:2109.14232](https://arxiv.org/abs/2109.14232) - submitted
+Transition probability and total crossing events in the multi-species asymmetric exclusion process, J. de Gier, W. Mead and M. Wheeler, [arXiv:2109.14232](https://arxiv.org/abs/2109.14232) - submitted with pre-print available
 
-The two-species totally asymmetric simple exclusion process - October 2020 - Master's thesis
+The two-species totally asymmetric simple exclusion process - October 2020 - Master's thesis (University of Melbourne)
 
 
 ## Talks
+Exclusion Process Dualities from Integrable Vertex Models  
+[ANZAMP 2023](https://www.anzamp.org.au/meetings/2023-2/)  
+Hobart | 7 February 2023
+
 ASEP Dualities from Integrable Vertex Models  
 [Recent Developments in Stochastic Duality](https://www.eurandom.tue.nl/event/workshop-recent-developments-in-stochastic-duality/)  
 Eurandom | 12 December 2022
@@ -36,8 +40,7 @@ Transition Probabilities in the Multi-species Asymmetric Exclusion Process
 
 The two-species totally asymmetric simple exlcusion process  
 [Integrability and Combinatorics at Finite Temperature](https://sites.google.com/view/intcombfintemp2021/home)  
-MATRIX | 17 June 2021  
-Can be viewed [here](https://www.youtube.com/watch?v=bPSxilDGA7w&t)
+MATRIX | 17 June 2021 | [video](https://www.youtube.com/watch?v=bPSxilDGA7w&t)
 
 The two-species totally asymmetric simple exlcusion process  
 ANZAMP Seminar Series 2021 | 16 March 2021
@@ -48,6 +51,3 @@ ANZAMP Seminar Series 2021 | 16 March 2021
 [LinkedIn](https://www.linkedin.com/in/william-thomas-mead/)
 
 I'm very casually working on a multi-species ASEP simulation tool in python. If this would be helpful for you then feel free to [contact me](mailto:wmead@student.unimelb.edu.au) and I can share it.
-
-I'm obliged to share the best piece of advice that I have recieved on giving a talk:
-> *You cannot read and listen at the same time*
