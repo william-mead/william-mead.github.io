@@ -2,8 +2,16 @@
 
 I am a PhD student within the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/) at the University of Melbourne.
 
-My research interests are in mathematical physics and integrable probability. I am interested in the stochastic dualities and universal current distributions of integrable models, particularly of higher-rank models.
+My research interests are in integrable probability. I am interested in the stochastic dualities and universal current distributions of integrable models, particularly of higher-rank models.
 
+
+[wmead@student.unimelb.edu.au](mailto:wmead@student.unimelb.edu.au)  
+
+
+## Papers and theses
+Transition probability and total crossing events in the multi-species asymmetric exclusion process, J. de Gier, W. Mead and M. Wheeler - [Jan de Gier et al 2023 J. Phys. A: Math. Theor. 56 255204](https://iopscience.iop.org/article/10.1088/1751-8121/acd5be)
+
+The two-species totally asymmetric simple exclusion process - October 2020 - Master's thesis (University of Melbourne)
 
 ## Meetings and visits
 * December 2022 - University of Oxford - visiting T. Yoshimura 
@@ -14,12 +22,6 @@ My research interests are in mathematical physics and integrable probability. I 
 * April-May 2022 - Galileo Galilei Institute for Theoretical Physics, Florence, Italy - attending [Randomness, Integrability & Universality workshop](https://www.ggi.infn.it/showevent.pl?id=366)  
 * February 2022 - [ANZAMP 2022 (online)](https://www.anzamp.org.au/meetings/2022-2/)  
 * June 2021 - MATRIX, Creswick - attending [Integrability and Combinatorics at Finite Temperature](https://sites.google.com/view/intcombfintemp2021/home)
-
-
-## Papers and theses
-Transition probability and total crossing events in the multi-species asymmetric exclusion process, J. de Gier, W. Mead and M. Wheeler, [arXiv:2109.14232](https://arxiv.org/abs/2109.14232) - submitted with pre-print available
-
-The two-species totally asymmetric simple exclusion process - October 2020 - Master's thesis (University of Melbourne)
 
 
 ## Talks
