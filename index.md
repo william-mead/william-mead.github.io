@@ -2,7 +2,7 @@
 
 I am a PhD student within the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/) at the University of Melbourne.
 
-My research interests are in integrable probability. I am interested in the stochastic dualities and universal current distributions of integrable models, particularly of higher-rank models and models on the half-line.
+My research interests are in integrable probability, non-equilibrium statistical mechanics and symmetric function theory. I am interested in the stochastic dualities and universal current distributions of integrable models, particularly of higher-rank models and models on the half-line.
 
 
 [wmead@student.unimelb.edu.au](mailto:wmead@student.unimelb.edu.au)  
