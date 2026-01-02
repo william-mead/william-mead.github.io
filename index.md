@@ -7,8 +7,7 @@ Prior to this, I submitted my PhD thesis at the [School of Mathematics and Stati
 My research interests are in integrable probability, non-equilibrium statistical mechanics and solvable lattice models.
 
 
-My CV is available here.
-
+My CV is available [here](https://william-mead.github.io/CV-public.pdf).
 
 ## Papers
 [Pfaffian Transition Probability and Correlation Kernel of TASEP in Half-space](https://arxiv.org/abs/2512.02286), J. de Gier, W. Mead, D. Remenik and M. Wheeler
