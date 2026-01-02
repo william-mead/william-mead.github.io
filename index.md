@@ -1,6 +1,6 @@
 # William Mead
 
-I am a Hausdorff postdoc at the Institute for Applied Mathematics at the Unversity of Bonn. I am in the [Interacting Random Systems Group](https://wt.iam.uni-bonn.de/people/interacting-random-systems) lead by Patrik Ferrari.
+I am a Hausdorff postdoc at the Institute for Applied Mathematics at the Unversity of Bonn. I am in the [Interacting Random Systems Group](https://wt.iam.uni-bonn.de/people/interacting-random-systems) led by Patrik Ferrari.
 
 Prior to this, I submitted my PhD thesis at the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/) at the University of Melbourne where I was supervised by Jan de Gier and Michael Wheeler.
 
